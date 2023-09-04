@@ -1,0 +1,42 @@
+# Spark_Assignment_Day_2
+
+## Day 2
+
+- **Task 1: Structured API Overview**
+    - Subtask 1.1: DataFrames
+    - Subtask 1.2: Schemas
+    - Subtask 1.3: Overview of Structured Spark Types
+    - Subtask 1.4: Columns
+    - Subtask 1.5: Rows
+    - Subtask 1.6: Spark Types
+    - Subtask 1.7: Overview of Structured API Execution
+        - Sub-subtask 1.7.1: Logical Planning
+        - Sub-subtask 1.7.2: Physical Planning
+        - Sub-subtask 1.7.3: Execution
+    - Subtask 1.8: Conclusion
+- **Task 2: Basic Structured Operations**
+    - Subtask 2.1: Schemas
+    - Subtask 2.2: Columns and Expressions
+        - Sub-subtask 2.2.1: Columns
+        - Sub-subtask 2.2.2: Expressions
+    - Subtask 2.3: Records and Rows
+        - Sub-subtask 2.3.1: Creating Rows
+    - Subtask 2.4: DataFrame Transformations
+        - Sub-subtask 2.4.1: Creating DataFrames
+        - Sub-subtask 2.4.2: `select` and `selectExpr`
+        - Sub-subtask 2.4.3: Converting to Spark Types (Literals)
+        - Sub-subtask 2.4.4: Adding Columns
+        - Sub-subtask 2.4.5: Renaming Columns
+        - Sub-subtask 2.4.6: Reserved Characters and Keywords
+        - Sub-subtask 2.4.7: Case Sensitivity
+        - Sub-subtask 2.4.8: Removing Columns
+        - Sub-subtask 2.4.9: Changing a Column’s Type (cast)
+        - Sub-subtask 2.4.10: Filtering Rows
+        - Sub-subtask 2.4.11: Getting Unique Rows
+        - Sub-subtask 2.4.12: Random Samples
+        - Sub-subtask 2.4.13: Random Splits
+        - Sub-subtask 2.4.14: Concatenating and Appending Rows (Union)
+        - Sub-subtask 2.4.15: Sorting Rows
+        - Sub-subtask 2.4.16: Limit
+        - Sub-subtask 2.4.17: Repartition and Coalesce
+        - Sub-subtask 2.4.18: Collecting Rows to the Driver
